@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetworkOnOff</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="active_time">Açık kalacağı zaman</string>
+    <string name="deactive_time">Kapalı kalacağı zaman</string>
+    <string name="default_text">0</string>
+    <string name="start">Başlat</string>
+    <string name="stop">Durdur</string>
+    <string name="close_application">Uygulamayı kapat</string>
+    <string name="wifi">Wi-fi</string>
+    <string name="mobile_data">Mobil veri</string>
+    <string name="min">Dk</string>
+    <string name="sec">Sn</string>
+    <string name="hour">Saat</string>
+    <string name="application_starting">Uygulama başlatılıyor.</string>
+    <string name="application_stopping">Uygulama durduruldu.</string>
+    <string name="zero_input">Zaman girdisi için 0 önerilmez. Lütfen başka bir değer giriniz.</string>
+    <string name="non_checkbox_selected">Ağ seçeneklerinden en az birini seçiniz!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4772809461009096/6664511565</string>
+    
+    
+    <string-array name="time_array">
+        <item>Dk</item>
+        <item>Sn</item>
+        <item>Saat</item>
+    </string-array>
+
+</resources>
